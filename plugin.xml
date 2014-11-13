@@ -7,7 +7,7 @@
     <name>Screen Orientation Landscape</name>
     <description>sets orientation Landscape in iOS.</description>
     <license>MIT</license>
-
+    <repo>https://github.com/francesco-rampoldi/topgraf-dev.git</repo>
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
